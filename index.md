@@ -1,8 +1,11 @@
 # About me
+![](headshot2021_smile_1500x1500.jpg)
 I'm a C++ and Go programmer. 
 
 I studied theoretical physics at the University of Glasgow,
 graduating with a BSc degree in 2016.
+
+Currently I'm a student at the University of Oulu, enrolled in a MSc programme in Computer Science.
 
 I've worked for a software company called FARA in the Public Transport sector since 2017.
 
